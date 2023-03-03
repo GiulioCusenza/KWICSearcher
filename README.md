@@ -1,9 +1,20 @@
 # KWIC Searcher
 
-This Java software offers a graphical user interface to search and visualise _**k**ey **w**ords **i**n **c**ontext_ based on their
+This Java software offers a graphical user interface to search and visualise key words in local documents and online web pages based on their
 word form, lemma or [POS tag](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html):
 
 ![View of the GUI](images/KWICSearcherGUI.png)
+
+### Instructions
+
+1. Download .jar file.
+2. Run it (Java SDK needed).
+3. By clicking on "file" a file navigator pops up. Alternatively you can copypaste the URL to a web page.
+4. Type a search term.
+5. Pick one between word form, lemma and POS tag.
+5. Choose to display the whole sentence or just a few neighbouring words.
+6. Click on the magnifying glass to search.
+7. Optionally, save your search as XML.
 
 
 ### Resources:
