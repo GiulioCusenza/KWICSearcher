@@ -1,6 +1,6 @@
 # KWIC Searcher
 
-This Java software offers a graphical user interface to search _**k**ey **w**ords **i**n **c**ontext_ based on their
+This Java software offers a graphical user interface to search and visualise _**k**ey **w**ords **i**n **c**ontext_ based on their
 word form, lemma or [POS tag](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html):
 
 ![View of the GUI](images/KWICSearcherGUI.png)
