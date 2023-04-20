@@ -1,6 +1,6 @@
 # KWIC Searcher
 
-This Java software offers a graphical user interface to search and visualise keywords in local documents and online web pages based on their
+This Java software provides a graphical user interface to search and visualise keywords in local documents and online web pages based on their
 word form, lemma or [POS tag](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html):
 
 ![View of the GUI](images/KWICSearcherGUI.png)
